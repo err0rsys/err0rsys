@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @err0rsys
-- 👀 I’m interested in C# and Delphi
+- 👋 Hi, I’m Artur Maciejowski, Head of Financial Software Team at DomConsult Sp. z o.o.
+- 👀 I’m interested in SQL Server, C# and Delphi
 - 🌱 I’m currently learning React and advanced C#
 
 <!---
